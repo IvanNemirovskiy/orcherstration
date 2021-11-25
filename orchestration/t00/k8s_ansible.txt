@@ -1,0 +1,7 @@
+official guide: https://kubernetes.io/docs/reference/kubectl/overview/
+link to yaml file conf for k8s deployment: https://k8s.io/examples/controllers/nginx-deployment.yaml
+useful setup guide: https://www.youtube.com/watch?v=X48VuDVv0do
+
+
+minikube start --driver=docker
+kubectl exec -it mongo-depl-5fd6b7d4b4-8x6gg -- bin/bash

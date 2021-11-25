@@ -1,0 +1,9 @@
+config: https://developer.cisco.com/learning/lab/intersight-04-ui-hello-iks-introduction/step/2
+create ssh : https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+1. anyconnect vpn
+2. log out from terraform cloud if logined
+3. accept email invitation from Terraform Cloud and proceed your login
+4. go to the intersight
+x...
+x. configure terraform
+x. claim terraform target
